@@ -1,0 +1,19 @@
+{
+  "name": "theocean",
+  "version": "1.0.0",
+  "description": "ocean api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Sampson",
+  "license": "ISC",
+  "dependencies": {
+    "the-ocean": "^1.1.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-watch": "^2.0.7"
+  }
+}
