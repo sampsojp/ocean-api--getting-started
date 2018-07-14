@@ -1,10 +1,11 @@
 {
   "name": "theocean",
   "version": "1.0.0",
-  "description": "ocean api",
+  "description": "ocean api - getting started",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel-watch index.js --presets es2015"
   },
   "author": "Jason Sampson",
   "license": "ISC",
